@@ -1,0 +1,11 @@
+[submodule "repos/thumbfast"]
+	path = repos/thumbfast
+	url = https://github.com/po5/thumbfast
+	shallow = true
+[submodule "repos/uosc"]
+	path = repos/uosc
+	url = https://github.com/tomasklaen/uosc
+	shallow = true
+[submodule "repos/sponsorblock"]
+	path = repos/sponsorblock
+	url = https://github.com/po5/mpv_sponsorblock
